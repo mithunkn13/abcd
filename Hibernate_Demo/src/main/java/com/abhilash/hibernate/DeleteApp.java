@@ -21,6 +21,8 @@ public class DeleteApp
 
         session.getTransaction().commit();
 
+        System.out.println("Mithun");
+
 
 
     }
